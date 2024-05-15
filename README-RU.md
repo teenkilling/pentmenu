@@ -36,7 +36,7 @@
 
 - Шаг 1. Используйте следующую команду, чтобы установить инструмент в вашу операционную систему Kali Linux.
 ```
-$ wget https://raw.githubusercontent.com/GinjaChris/pentmenu/master/pentmenu
+$ wget https://github.com/centesis/pentmenu.git
 ```
 
 - Шаг 3. Измените права доступа к файлу пентменю с помощью следующей команды.
@@ -55,7 +55,7 @@ $ ./pentmenu
 git clone:
 
 ```
-git clone https://github.com/centesis/pentmenu
+git clone https://github.com/centesis/pentmenu.git
 ```
 
 
