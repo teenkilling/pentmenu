@@ -172,5 +172,5 @@ Pentmenu is available as a [package](https://archstrike.org/packages/pentmenu) o
 
 Donate: TQKxgZPDNbNfoVSfSBURrQ1McsRVFqMvSv (TRC20)
 
-Connection: tg - centesium; ds - centesis
+Connection: ds - centesis
 
