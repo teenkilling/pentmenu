@@ -96,4 +96,4 @@ IPsec DOS: этот параметр использует программу ike
 
 Donate: TQKxgZPDNbNfoVSfSBURrQ1McsRVFqMvSv (TRC20)
 
-# **Связь со мной: tg - centesium; ds - centesis**
+# **Связь со мной: ds - centesis**
