@@ -81,7 +81,7 @@
 - Шаг 1. Используйте следующую команду, чтобы установить инструмент в вашу операционную систему Kali Linux.
   
 ```
-$ wget https://raw.githubusercontent.com/GinjaChris/pentmenu/master/pentmenu
+$ git clone https://github.com/centesis/pentmenu
 
 ```
 
